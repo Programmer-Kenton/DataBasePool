@@ -1,0 +1,9 @@
+# ninja log v6
+49	116	7457852496653902	CMakeFiles/DataBasePool.dir/source/CommonConnectionPool.cpp.obj	ee2db9e8bd16d42e
+8	2203	7457852496240496	CMakeFiles/DataBasePool.dir/main.cpp.obj	d0eff477c6b2714d
+54	2199	7457852496698928	CMakeFiles/DataBasePool.dir/source/Connection.cpp.obj	f7fc52d1acbeba8e
+7	148	7457857485647951	DataBasePool.exe	efd6930ce0a78712
+38	2503	7462591257284288	CMakeFiles/DataBasePool.dir/main.cpp.obj	d0eff477c6b2714d
+63	2640	7462591257533302	CMakeFiles/DataBasePool.dir/source/CommonConnectionPool.cpp.obj	ee2db9e8bd16d42e
+7	2323	7462591572707252	CMakeFiles/DataBasePool.dir/source/CommonConnectionPool.cpp.obj	ee2db9e8bd16d42e
+2323	2465	7462591595880722	DataBasePool.exe	655971b68798c45d
